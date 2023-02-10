@@ -14,13 +14,8 @@ function verificaSeOChutePossuiUmValorValido(chute) {
         } else {
 
             elementoChute.innerHTML += '<div>Valor Inválido</div>';
+            return
         }
-    }
-
-
-    if (chuteForInvalido(numero)) {
-        elementoChute.innerHTML += '<div>Valor inválido</div>'
-        return 
     }
 
     if (numeroForMaiorDoPermitido(numero)) {
