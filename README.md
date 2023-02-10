@@ -6,7 +6,7 @@ Projeto de JavaScript produzido no curso: "JavaScript: validações e reconhecim
 | -------------  | --- |
 | :sparkles: Nome        | **Número Secréto**
 | :label: Tecnologias | JavaScript, HTML e CSS
-| :rocket: URL         | 
+| :rocket: URL         | https://jogo-numero-secreto-psi.vercel.app/
 | :fire: Curso     | JavaScript: validações e reconhecimento de voz
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
