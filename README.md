@@ -1,17 +1,18 @@
-# Nome do meu projeto
+# Número Secréto
 
-Rápida descrição do objetivo de fazer esse projeto
+Projeto de JavaScript produzido no curso: "JavaScript: validações e reconhecimento de voz" na paltaforma da Alura. Instrutor: Guilherme Lima
 
 | :placard: Vitrine.Dev |     |
 | -------------  | --- |
-| :sparkles: Nome        | **Titulo do meu projeto**
-| :label: Tecnologias | java, html, ruby, c# (tecnologias utilizadas)
-| :rocket: URL         | https://url-deploy.com.br
-| :fire: Desafio     | https://url-do-desafio.com.br
+| :sparkles: Nome        | **Número Secréto**
+| :label: Tecnologias | JavaScript, HTML e CSS
+| :rocket: URL         | 
+| :fire: Curso     | JavaScript: validações e reconhecimento de voz
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](https://via.placeholder.com/1200x500.png?text=imagem+lindona+do+meu+projeto#vitrinedev)
+![Screenshot_1](https://user-images.githubusercontent.com/91283681/218125478-f11b7ccd-6a84-4dd4-8ff4-30373a1c1c54.png#vitrinedev)
+
 
 ## Detalhes do projeto
 
-Textos e imagens que descrevam seu projeto, suas conquistas, seus desafios, próximos passos, etc...
+Projeto super bacana e divertido, aprendi melhor a codar e entender o JavaScript além de entender mais sobre as APIs.
